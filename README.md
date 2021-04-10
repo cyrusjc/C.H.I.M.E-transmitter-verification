@@ -1,5 +1,5 @@
 # C.H.I.M.E-transmitter-verification
-Used platformIO as an IDE
+Used platformIO as an IDE, burst writes 17 registers then continously sends hex AA.
 
 ![image](https://user-images.githubusercontent.com/32754336/114271700-99095780-99c7-11eb-8e4b-578389c29b80.png)
 
