@@ -7,7 +7,7 @@ Set up:
 
 ![image](https://user-images.githubusercontent.com/32754336/114271700-99095780-99c7-11eb-8e4b-578389c29b80.png)
 
-Results:
+Results is recorded with an SNA.
 
 ![image](https://user-images.githubusercontent.com/32754336/114271707-a292bf80-99c7-11eb-8efc-16d602dbf990.png)
 
